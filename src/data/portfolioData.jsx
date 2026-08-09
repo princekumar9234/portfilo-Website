@@ -14,7 +14,7 @@ export const personalInfo = {
     repo: "https://github.com/princekumar9234/portfilo-Website.git"
   },
   stats: [
-    { label: "Years Experience", value: 1, suffix: "+" },
+    { label: "Years Experience", value: 2, suffix: "+" },
     { label: "Community Members", value: 100, suffix: "+" },
     { label: "Open Source Projects", value: 50, suffix: "+" },
     { label: "Technologies Mastered", value: 15, suffix: "+" }
@@ -48,7 +48,7 @@ export const skillsData = [
     category: "Tools & Frameworks",
     icon: "FaTools",
     skills: [
-      { name: "React 19", level: 92, icon: "FaReact" },
+      { name: "React", level: 92, icon: "FaReact" },
       { name: "Node.js", level: 88, icon: "FaNodeJs" },
       { name: "Express.js", level: 85, icon: "SiExpress" },
       { name: "Git & GitHub", level: 90, icon: "FaGithub" },
